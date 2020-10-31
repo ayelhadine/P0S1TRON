@@ -2,8 +2,7 @@
 #### About me
 - 🌱 I’m currently an undergraduate Data-Scientist at National Institute of Statistics and Applied Economics
 - 👯 If you're looking for collaboration about anything that concern Data-Science And AI don't hesitate to ask
-- 📫 How to reach me: ...
-
+- 📫 How to reach me:https://www.linkedin.com/in/ayoub-el-hadine-4abb62197/
 <!--
 **P0S1TRON/P0S1TRON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
