@@ -1,4 +1,4 @@
-### Greetings I P0S1TR0N greets you!👋
+### Greetings!👋
 #### About me
 - 🌱 I’m currently an undergraduate Data-Scientist at National Institute of Statistics and Applied Economics
 - 👯 If you're looking for collaboration about anything that concern Data-Science And AI don't hesitate to ask
