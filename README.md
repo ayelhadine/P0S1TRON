@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="P0S1TR0N | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="P0S1TR0N | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="P0S1TR0N | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]:https://www.linkedin.com/in/ayoubelhadine/
 [medium]:https://medium.com/@ayoubelhadine
+[twitter]:https://twitter.com/AyoubHadine
