@@ -1,4 +1,3 @@
-![Alt Text](https://media.giphy.com/media/5t1YhyQMp3LSpHZmC5/giphy-downsized.gif)
 <p align="center">
   <img src="https://media.giphy.com/media/5t1YhyQMp3LSpHZmC5/giphy-downsized.gif" alt="animated" />
 </p>
