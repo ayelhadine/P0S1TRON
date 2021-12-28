@@ -1,4 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/5t1YhyQMp3LSpHZmC5/giphy-downsized.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/5t1YhyQMp3LSpHZmC5/giphy-downsized.gif" alt="animated" />
+</p>
 ### Greetings!👋
 #### About me
 - 🌱 I’m currently an undergraduate Data-Scientist at National Institute of Statistics and Applied Economics
