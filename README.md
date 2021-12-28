@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/RgbSYPGEB4FzkiTfXa" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gif-art-visuals-electric-RgbSYPGEB4FzkiTfXa">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ### Greetings!👋
 #### About me
 - 🌱 I’m currently an undergraduate Data-Scientist at National Institute of Statistics and Applied Economics
