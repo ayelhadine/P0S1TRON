@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/5t1YhyQMp3LSpHZmC5/giphy-downsized.gif" alt="animated" />
 </p>
 
+<p align="center">
 ### Greetings!👋
+</p>  
+
 #### About me
 - 🌱 I’m currently an undergraduate Data-Scientist at National Institute of Statistics and Applied Economics
 - 👯 If you're looking for collaboration about anything that concern Data-Science or AI don't hesitate to ask
