@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/5t1YhyQMp3LSpHZmC5/giphy-downsized.gif" alt="animated" />
 </p>
 
-<p align="center">
-### Greetings!👋
-</p>  
+<h2 align="center">Hey it's Ayoub!👋</h2>  
 
 #### About me
 - 🌱 I’m currently an undergraduate Data-Scientist at National Institute of Statistics and Applied Economics
