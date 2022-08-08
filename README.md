@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/5t1YhyQMp3LSpHZmC5/giphy-downsized.gif" alt="animated" />
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy-downsized.gif" alt="animated" />
 </p>
 
 <h2 align="center">Hey it's Ayoub!👋</h2>  
