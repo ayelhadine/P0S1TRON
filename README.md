@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy-downsized.gif" alt="animated" />
-</p>
 
 <h2 align="center">Hey it's Ayoub!👋</h2>  
 
