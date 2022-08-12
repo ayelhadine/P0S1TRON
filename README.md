@@ -1,5 +1,6 @@
 
 <h2 align="center">Hey it's Ayoub!👋</h2>  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 
 #### About me
 - 🌱 I’m a junior Data-Scientist and a Machine Learning Engineer recently graduated from National Institute of Statistics and Applied Economics
