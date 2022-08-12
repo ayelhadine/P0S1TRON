@@ -4,7 +4,7 @@
 
 #### About me
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Airplane%20Departure.png" alt="Airplane Departure" width="25" height="25" /> I’m a junior Data-Scientist and a Machine Learning Engineer recently graduated from National Institute of Statistics and Applied Economics
-- 👯 If you're looking for collaboration about anything that concern Data-Science or AI don't hesitate to ask
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/People/Construction%20Worker.png" alt="Construction Worker" width="25" height="25" /> If you're looking for collaboration about anything that concern Data-Science or AI don't hesitate to ask
 <!--
 **P0S1TRON/P0S1TRON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
